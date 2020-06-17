@@ -1,0 +1,5 @@
+<settings>
+    <category label="general">
+        <setting default="" enable="true" id="kvalstore.address" label="30523" type="text" />
+    </category>
+</settings>

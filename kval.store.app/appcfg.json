@@ -1,0 +1,42 @@
+{
+  "id": "kvalstore",
+  "name": "Kval Store",
+  "version": "1.0.0",
+  "provider": "",
+  "category": "video",
+  "ui_type": "video",
+  "dependencies": [
+      {
+        "id": "script.module.six",
+        "version": "",
+        "uri": ""
+      },
+  ],
+  "launcher": {
+    "main": "default.py",
+    "daemon": "",
+    "update": "update.py",
+    "package": ""
+  },
+  "meta": {
+      "assets": {
+        "icon": "icon.png",
+        "back": "back.png",
+        "fanart": "fanart.png"
+      },
+      "summary": [
+        {
+          "lang": "en_gb",
+          "text": "Store Application"
+        }
+      ],
+      "description": [
+        {
+          "lang": "en_gb",
+          "text": "It includes sets of applications for Kval system."
+        }
+      ],
+      "platform": "all",
+      "size": "1776578"
+    }
+}
